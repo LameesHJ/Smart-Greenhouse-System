@@ -103,6 +103,6 @@ I was primarily responsible for embedded software development, while also contri
 
 ## 📬 Contact
 
-If you have any questions about this project, feel free to connect with me on LinkedIn.
+If you'd like to learn more about this project or connect professionally, feel free to reach out:
 
-Thank you for visiting this repository ⭐
+- LinkedIn: :contentReference[oaicite:0]{index=0}
