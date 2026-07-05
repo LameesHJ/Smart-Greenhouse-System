@@ -59,7 +59,7 @@ The system monitors environmental conditions and automatically responds by contr
 
 ## 🔌 Circuit Diagram
 
-![Circuit](Circuit/Circuit-Diagram.png)
+![Circuit](Circuit/Circuit-Diagram.jpeg)
 
 ---
 
