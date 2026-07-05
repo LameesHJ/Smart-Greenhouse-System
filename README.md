@@ -55,6 +55,7 @@ The system monitors environmental conditions and automatically responds by contr
 
 ![Architecture](Images/Block Diagram.jpeg)
 
+
 ---
 
 ## 🔌 Circuit Diagram
