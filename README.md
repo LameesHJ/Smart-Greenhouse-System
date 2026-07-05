@@ -82,7 +82,13 @@ The system monitors environmental conditions and automatically responds by contr
 
 ## 👥 Team
 
-This project was developed collaboratively as a university team project.
+This project was developed collaboratively by:
+
+- Lamees Hajaj Alrefaei
+- Shahad Fahad Alshahwan
+- Amnah Ahmed
+
+I was primarily responsible for embedded software development, while also contributing to hardware integration, circuit assembly, prototype construction, and system testing.
 
 ---
 
