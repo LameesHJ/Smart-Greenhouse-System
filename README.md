@@ -101,4 +101,8 @@ I was primarily responsible for embedded software development, while also contri
 
 ---
 
+## 📬 Contact
+
+If you have any questions about this project, feel free to connect with me on LinkedIn.
+
 Thank you for visiting this repository ⭐
