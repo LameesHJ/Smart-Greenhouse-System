@@ -53,7 +53,8 @@ The system monitors environmental conditions and automatically responds by contr
 
 ## 🏗 System Architecture
 
-![Architecture](Images/Block Diagram.jpeg)
+
+![System Architecture](Images/Block Diagram.jpeg)
 
 
 ---
