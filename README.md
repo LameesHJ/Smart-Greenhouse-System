@@ -1,4 +1,3 @@
-# Smart-Greenhouse-System
 # 🌱 Smart Greenhouse System
 
 ![Project](Images/project.jpeg)
