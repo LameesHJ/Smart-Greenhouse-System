@@ -67,16 +67,6 @@ The system monitors environmental conditions and automatically responds by contr
 
 ![Dashboard](Images/Blynk.jpeg)
 
----
-
-## 👩‍💻 My Contributions
-
-- Embedded Software Development
-- ESP32 Programming
-- Hardware Integration
-- Circuit Assembly
-- Prototype Development
-- System Testing
 
 ---
 
