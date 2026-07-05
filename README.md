@@ -105,4 +105,4 @@ I was primarily responsible for embedded software development, while also contri
 
 If you'd like to learn more about this project or connect professionally, feel free to reach out:
 
-- LinkedIn: :contentReference[oaicite:0]{index=0}
+- LinkedIn: :https://www.linkedin.com/in/lamees-alrefaei-17b36a217?utm_source=share_via&utm_content=profile&utm_medium=member_ios
